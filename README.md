@@ -22,9 +22,9 @@
 | 2018.02.12-2018.02.13     | 完成并修改论文 |    检查语法    |  完成论文翻译  |
 | 2018.05     | ---- |    ----    |  ----  |
 ### 5.Model Analysis
-![model 01](https://github.com/leongdut/2018-MCM-ICM-D-problem/tree/master/Pictures/analysis.png)
+![model 01](https://github.com/leongdut/2018-MCM-ICM-D-problem/blob/master/Pictures/analysis.png)
 ### 6.Solution
-![model 02](https://github.com/leongdut/2018-MCM-ICM-D-problem/tree/master/Pictures/method.png)
+![model 02](https://github.com/leongdut/2018-MCM-ICM-D-problem/blob/master/Pictures/method.png)
 ### 7.Conclusion
 > adding...
 
