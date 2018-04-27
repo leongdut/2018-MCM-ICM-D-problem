@@ -9,9 +9,9 @@
 ### 3.Files the project contains
 - [x]  Problem Content
 - [x]  Paper
-- [ ]  Codes
-- [ ]  Pictures
-- [ ]  DataSet got by python
+- [x]  Codes
+- [x]  Pictures
+- [x]  DataSet got by python
 ### 4.Arramgement
 
 | Time        | Mengyi Liao   |  Pengze Lin  |  Chuangwei Zheng  |
@@ -21,6 +21,10 @@
 | 2018.02.11-2018.02.12     | 修改之前模型完成第二三小问 |    编程以及画图查文献    |  查文献补充问题  |
 | 2018.02.12-2018.02.13     | 完成并修改论文 |    检查语法    |  完成论文翻译  |
 | 2018.05     | ---- |    ----    |  ----  |
-### 5.Summary
-> 待补充
+### 5.Model Analysis
+![model 01](https://github.com/leongdut/2018-MCM-ICM-D-problem/tree/master/Pictures/analysis.png)
+### 6.Solution
+![model 02](https://github.com/leongdut/2018-MCM-ICM-D-problem/tree/master/Pictures/method.png)
+### 7.Conclusion
+> adding...
 
