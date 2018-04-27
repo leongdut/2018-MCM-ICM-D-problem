@@ -1,3 +1,4 @@
+![EVs](https://github.com/leongdut/2018-MCM-ICM-D-problem/blob/master/Pictures/supercharging.png)
 # 2018-MCM-ICM-D-problem
 ### 1.Topic
 > Where are the Charging Stations?  
